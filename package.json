@@ -1,0 +1,24 @@
+{
+  "name": "pac",
+  "version": "1.0.0",
+  "description": "本地HOME开发代理动态配置",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kingshdu/pac.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kingshdu/pac/issues"
+  },
+  "homepage": "https://github.com/kingshdu/pac#readme",
+  "dependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
